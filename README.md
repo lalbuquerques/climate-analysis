@@ -97,6 +97,3 @@ O arquivo `dados_climaticos.csv` deve seguir o seguinte formato:
   - `matplotlib` para geração de gráficos.
   - `datetime` para manipulação de datas.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
